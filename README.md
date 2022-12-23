@@ -1,4 +1,4 @@
-# deep-fake-classifier
+# Identifying Deepfakes with Convolutional Neural Networks
 
 This repository contains my final project for Deep Learning (CSC 381) at Davidson College in the fall of 2020. 
 
